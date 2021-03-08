@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MidProjek2</string>
+
+    <string-array name="tipe_mobil">
+        <item>Mobil</item>
+        <item>Motor</item>
+    </string-array>
+</resources>
